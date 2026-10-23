@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1280" viewBox="0 0 1280 1280" role="img" aria-label="NoResponse"><title>NoResponse</title><rect width="1280" height="1280" fill="#163ce7"/><g transform="translate(-6 -11.75)"><g xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 331 248 H 961" />
+<path d="M 331 368 H 961" />
+<path d="M 331 489 H 961" />
+<path d="M 331 610 H 961" />
+<path d="M 331 730 H 961" />
+<path d="M 331 850 H 961" />
+<path d="M 331 248 V 850" />
+<path d="M 457 248 V 850" />
+<path d="M 582 248 V 850" />
+<path d="M 708 248 V 850" />
+<path d="M 834 248 V 850" />
+<path d="M 961 248 V 850" />
+<path stroke-linecap="butt" d="M 331 850 V 886 C 331 990 436 971 436 1046 V 1100" />
+<path stroke-linecap="butt" d="M 457 850 V 886 C 457 990 534 971 534 1046 V 1100" />
+<path stroke-linecap="butt" d="M 582 850 V 886 C 582 990 620 971 620 1046 V 1100" />
+<path stroke-linecap="butt" d="M 708 850 V 886 C 708 990 674 971 674 1046 V 1100" />
+<path stroke-linecap="butt" d="M 834 850 V 886 C 834 990 755 971 755 1046 V 1100" />
+<path stroke-linecap="butt" d="M 961 850 V 886 C 961 990 853 971 853 1046 V 1100" />
+</g><g xmlns="http://www.w3.org/2000/svg">
+<circle cx="331" cy="248" r="44.5" fill="#FFFFFF" />
+<circle cx="457" cy="248" r="44.5" fill="#FFFFFF" />
+<circle cx="582" cy="248" r="44.5" fill="#FFFFFF" />
+<circle cx="708" cy="248" r="44.5" fill="#FFFFFF" />
+<circle cx="834" cy="248" r="44.5" fill="#FFFFFF" />
+<circle cx="961" cy="248" r="44.5" fill="#FFFFFF" />
+<circle cx="331" cy="368" r="44.5" fill="#FFFFFF" />
+<circle cx="457" cy="368" r="44.5" fill="#FFFFFF" />
+<circle cx="582" cy="368" r="44.5" fill="#FFFFFF" />
+<circle cx="708" cy="368" r="44.5" fill="#FFFFFF" />
+<circle cx="834" cy="368" r="44.5" fill="#FFFFFF" />
+<circle cx="961" cy="368" r="44.5" fill="#FFFFFF" />
+<circle cx="331" cy="489" r="44.5" fill="#FFFFFF" />
+<circle cx="457" cy="489" r="44.5" fill="#FFFFFF" />
+<circle cx="582" cy="489" r="44.5" fill="#FFFFFF" />
+<circle cx="708" cy="489" r="44.5" fill="#FFFFFF" />
+<circle cx="834" cy="489" r="44.5" fill="#FFFFFF" />
+<circle cx="961" cy="489" r="44.5" fill="#FFFFFF" />
+<circle cx="331" cy="610" r="44.5" fill="#FFFFFF" />
+<circle cx="457" cy="610" r="44.5" fill="#FFFFFF" />
+<circle cx="582" cy="610" r="44.5" fill="#FFFFFF" />
+<circle cx="708" cy="610" r="44.5" fill="#FFFFFF" />
+<circle cx="834" cy="610" r="44.5" fill="#FFFFFF" />
+<circle cx="961" cy="610" r="44.5" fill="#FFFFFF" />
+<circle cx="331" cy="730" r="44.5" fill="#FFFFFF" />
+<circle cx="457" cy="730" r="44.5" fill="#FFFFFF" />
+<circle cx="582" cy="730" r="44.5" fill="#FFFFFF" />
+<circle cx="708" cy="730" r="44.5" fill="#FFFFFF" />
+<circle cx="834" cy="730" r="44.5" fill="#FFFFFF" />
+<circle cx="961" cy="730" r="44.5" fill="#FFFFFF" />
+<circle cx="331" cy="850" r="44.5" fill="#FFFFFF" />
+<circle cx="457" cy="850" r="44.5" fill="#FFFFFF" />
+<circle cx="582" cy="850" r="44.5" fill="#FFFFFF" />
+<circle cx="708" cy="850" r="44.5" fill="#FFFFFF" />
+<circle cx="834" cy="850" r="44.5" fill="#FFFFFF" />
+<circle cx="961" cy="850" r="44.5" fill="#FFFFFF" />
+</g></g></svg>
