@@ -1,12 +1,12 @@
 <a href="https://noresponse.org"><img src="https://raw.githubusercontent.com/noresponsehq/.github/main/profile/banner.png" alt="NoResponse. Investigate everyone, everywhere, all at once." width="100%"></a>
 
-NoResponse connects the accounts behind the compute you're losing. Start with a review of the evidence your team already has.
+NoResponse finds the accounts behind an email address, phone number, username or name, and returns what they show about the person. Every profile, linked identifier, timestamp, location and image comes back typed, with the source it came from.
 
 [Explore NoResponse](https://noresponse.org) · [Read the docs](https://docs.noresponse.org) · [Book a demo](https://noresponse.org/demo/)
 
 ## Build with NoResponse
 
-Use the Identity Intelligence API from your backend to assess sign-ups, logins and purchases. Choose your language to install a client and make your first call.
+Call the API from your own tools, case systems and pipelines. Choose your language to install a client and make your first call.
 
 | SDK | Documentation |
 | --- | --- |
@@ -20,6 +20,6 @@ Use the Identity Intelligence API from your backend to assess sign-ups, logins a
 
 For AI tools, use the [NoResponse MCP server](https://github.com/noresponsehq/mcp).
 
-## Understand the abuse
+## Who it's for
 
-Read our [research](https://noresponse.org/research/) and [integration guides](https://noresponse.org/guides/) for the evidence behind the product and ways to use it.
+Investigators in law enforcement, financial crime, threat intelligence, trust and safety and journalism. Each finding carries its source, so you can check it before you act on it.
