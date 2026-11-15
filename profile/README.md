@@ -1,4 +1,4 @@
-<a href="https://noresponse.org"><img src="https://raw.githubusercontent.com/noresponsehq/.github/main/profile/banner.png" alt="NoResponse. Find the abuse in your API." width="100%"></a>
+<a href="https://noresponse.org"><img src="https://raw.githubusercontent.com/noresponsehq/.github/main/profile/banner.png" alt="NoResponse. Investigate everyone, everywhere, all at once." width="100%"></a>
 
 NoResponse connects the accounts behind the compute you're losing. Start with a review of the evidence your team already has.
 

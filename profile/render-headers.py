@@ -53,15 +53,15 @@ def main():
     sdk = Image.new("RGB", (1600, 280), night)
     field_on(sdk, (700, 250, 1440, 530), (860, 0))
     brand(sdk, 64, 52, 64)
-    ImageDraw.Draw(sdk).text((64, 158), "Identity Intelligence", font=face(38), fill="#bcbfe2")
+    ImageDraw.Draw(sdk).text((64, 158), "investigate everyone, everywhere, all at once", font=face(38), fill="#bcbfe2")
     sdk.save(output / "sdk-header.png", optimize=True)
 
     banner = Image.new("RGB", (1600, 520), night)
-    field_on(banner, (620, 220, 1440, 740), (780, 0))
+    field_on(banner, (760, 220, 1440, 740), (920, 0))
     brand(banner, 64, 45, 44)
     draw = ImageDraw.Draw(banner)
-    draw.text((64, 176), "Find the abuse", font=face(84), fill=cream)
-    draw.text((64, 270), "in your API.", font=face(84), fill=cream)
+    for row, line in enumerate(("investigate everyone,", "everywhere,", "all at once")):
+        draw.text((64, 176 + 94 * row), line, font=face(84), fill=cream)
     banner.save(output / "banner.png", optimize=True)
 
 
